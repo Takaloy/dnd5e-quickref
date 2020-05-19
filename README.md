@@ -1,7 +1,7 @@
 dnd5e-quickref
 ==============
 
-Quick reference sheet for D&amp;D 5e found [here](/quickref.html). 
+Quick reference sheet for D&amp;D 5e found [here](https://takaloy.github.io/dnd5e-quickref/quickref.html). 
 
 Forked from [Corbi's GitHub](https://github.com/crobi/dnd5e-quickref).
 
