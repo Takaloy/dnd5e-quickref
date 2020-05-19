@@ -120,5 +120,20 @@ data_movement = [
             "If you move while grappling another creature, your speed is halved, unless the creature is two or more sizes smaller than you.",
             "See the attack action for how to grapple a creature."
         ]
+    },
+    {
+        title: "Mount / Dismount",
+        icon: "horse-head",
+        subtitle: "Cost: half movement speed",
+        description: "Movement cost: half of your speed",
+        reference: "PHB, pg. 198.",
+        bullets: [
+            "You can mount a creature that is 5 feet of you or dismount.",
+            "You can't perform this action if you don't have enough movement left or if your speed is 0",
+            "If an effect moves your mount against your will, or if you're knocked prone on the mount, make a Dexterity save with DC 10.",
+            "If you fail a Dexterity save, you are knocked prone within 5 feet of mount.",
+            "If your mount is knocked prone, you can use reaction to dismount, otherwise be knocked prone within 5 feet of mount."
+        ]
+
     }
 ]
