@@ -131,8 +131,8 @@ data_movement = [
             "You can mount a creature that is 5 feet of you or dismount.",
             "You can't perform this action if you don't have enough movement left or if your speed is 0",
             "If an effect moves your mount against your will, or if you're knocked prone on the mount, make a Dexterity save with DC 10.",
-            "If you fail a Dexterity save, you are knocked prone within 5 feet of mount.",
-            "If your mount is knocked prone, you can use reaction to dismount, otherwise be knocked prone within 5 feet of mount."
+            "On a failure, you are knocked prone within 5 feet of mount.",
+            "If your mount is knocked prone, you can use reaction to dismount or otherwise be knocked prone within 5 feet of mount."
         ]
 
     }
